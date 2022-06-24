@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "176f98e53698ac3d217eef376b0acf83",
+  "assets/AssetManifest.json": "33de25a073135c1d521c2be9e9473e5c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/diary_app_logo.png": "ac9ca5fadc501ab03448792f1338ed15",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "assets/images/logo_dark.png": "b6fb3c4072ad4bda23723048d1a31e31",
 "assets/images/logo_light.png": "7703856b9e47532ea2d619d9633d39d5",
 "assets/images/namazzi_logo.png": "7b4f592c12e46e18401257ed6757ddd8",
-"assets/images/Payminder_logo.png": "ce7a68a1779625b5a180b45d1bff27ce",
+"assets/images/payminder_logo.png": "ce7a68a1779625b5a180b45d1bff27ce",
 "assets/images/pdf_maker_logo.png": "846a5d925f940b7e7fade5019274e463",
 "assets/images/sad-emoji.png": "893d3abb8c7fa96eb28b7554916422cd",
 "assets/NOTICES": "88aeab0446040345942c18a0362157f0",
@@ -29,10 +29,10 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/Icon-192.png": "1ef011a66d89084169badf4feb0bdb9d",
 "icons/Icon-512.png": "f28b7ac88f7f7d1bf81ae2e26cef58d1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6b5c6eeb296eb4cb2e90ce381123764b",
-"/": "6b5c6eeb296eb4cb2e90ce381123764b",
+"icons/Icon-maskable-192.png": "1ef011a66d89084169badf4feb0bdb9d",
+"icons/Icon-maskable-512.png": "f28b7ac88f7f7d1bf81ae2e26cef58d1",
+"index.html": "7386953e0d4d283f3867107fbb9fca01",
+"/": "7386953e0d4d283f3867107fbb9fca01",
 "main.dart.js": "8aca838c59fcf3cc9d21dacfd2f8681f",
 "manifest.json": "2a76a64b4e1bb2cacb0e49c04ac428f0",
 "version.json": "d08a3e6ec4de5186e82dbf560917deda"
