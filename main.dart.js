@@ -60753,7 +60753,7 @@ cF(){return this.a_L()},
 a_L(){var s=0,r=A.Y(t.y),q,p=this,o,n
 var $async$cF=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:o={}
-n=A.zP("drive.google.com/file/d/16lLIwnI6oPJR-d1kdhwOcJdieUFLWSAg/view",p.c,"https")
+n=A.zP("drive.google.com/file/d/147Vm8UzyZofKXFRtbPF0jO4YwIR1GvVX/view?usp=sharing",p.c,"https")
 o.a=!0
 s=3
 return A.O(A.Ak(n).aC(new A.VS(o),t.P),$async$cF)
@@ -60761,7 +60761,7 @@ case 3:A.fI("projects_model.dart, L31: Not able to launch")
 if(!o.a){q=!1
 s=1
 break}s=4
-return A.O(A.nH(A.na("https://drive.google.com/file/d/16lLIwnI6oPJR-d1kdhwOcJdieUFLWSAg/view",0,null),B.cu),$async$cF)
+return A.O(A.nH(A.na("https://drive.google.com/file/d/147Vm8UzyZofKXFRtbPF0jO4YwIR1GvVX/view?usp=sharing",0,null),B.cu),$async$cF)
 case 4:A.fI(n.gmo())
 q=!0
 s=1
